@@ -112,5 +112,3 @@ Basic user input validation
 Nikhil Verma
 GitHub Profile
 https://github.com/Git-sys-1
-
-✍️ Replace "Nikhil Verma" and the GitHub link with your actual info.
